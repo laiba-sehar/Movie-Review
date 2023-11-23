@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(49, 55, 123);
+    color: antiquewhite;
+    padding: 18px;
+}
+.Movie{
+    color:black;
+    background-color: rgb(219,212,212);
+    border:1px solid gray;
+    padding:3px;
+    width:22%;
+    margin-top: 18px;
+}
+.Movie img{
+    width:100%;
+    height:290px;
+}

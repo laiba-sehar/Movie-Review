@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  margin: 0;
+}
+.Movie{
+  color: black;
+}
+.main{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 15px;
+}
